@@ -1,0 +1,33 @@
+.para1 {
+  height: 800px;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
+}
+
+.parallax-inner {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+    
+  
+
+  margin: 0;
+  z-index: 3;
+}
+.parallax-inner h1{
+    margin-top: 200px;
+    text-shadow:
+        -1px -1px 0 black,
+         1px -1px 0 black,
+        -1px  1px 0 black,
+        1px  1px 0 black;
+}

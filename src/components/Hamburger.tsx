@@ -16,7 +16,7 @@ export default function HamburgerComponent() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/transportation">transportation</Link>
+              <Link to="/transportation">Transportation</Link>
             </li>
             <li>
               <Link to="/Lodging">Lodging</Link>

@@ -1,0 +1,32 @@
+.top{
+    position: relative;
+    align-self: center;
+    justify-content: center;
+    color: rgb(224, 202, 75);
+}
+
+.text-box{
+    text-align: center;
+    position: relative;
+    
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: large;
+
+    
+    border: 2px black;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.text{
+    
+    font-size: 25px;
+}
+.title{
+    font-weight: bold;
+    text-shadow: gray;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}

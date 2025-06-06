@@ -7,7 +7,7 @@ function Heading() {
   return (
     <div className="heading">
       <div className="leftside">
-        <img className="tiki" src={Tiki} />
+        <img className="tiki" src={Tiki} alt="Tiki face" />
         <h1>Taniti</h1>
         <h2 className="welcome">
           {" "}

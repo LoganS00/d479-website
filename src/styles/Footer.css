@@ -1,0 +1,33 @@
+.foot{
+    background-color: black;
+}
+.icons{
+    justify-content: center;
+    align-content: center;
+}
+.three-logo{
+    list-style: none;
+}
+li{
+    margin-left: 20px;
+    display: inline;
+    
+}
+.botnav{
+    justify-content: center;
+    align-content: center;
+}
+.botul{
+    list-style: none;
+}
+.foot a{
+
+  padding: 12px 16px;
+  color: rgb(224, 202, 75); 
+  text-decoration: none;
+  font-family: cursive;
+  transition: background 0.3s ease;
+}
+.foot a:hover {
+  background-color: #333;
+}
